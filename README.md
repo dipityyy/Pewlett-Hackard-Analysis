@@ -7,10 +7,10 @@ The purpose of our project is to determine the number of retiring employees by t
 
 # The Results
 
-- 
+- With the retirment_titles table we are able to see every eligible for retirement employee and how long they have worked at each position over the course of their career.
 
--
+- The unique titles table that we created is showing the most recent title for employees of retirment age.
 
--
+- Our retiring_titles shows us the a majority of the employees of retirment age (57,668/90,398 = 64%) have senior titles.
 
--
+- The final part of our project shows mentorship eligibility, if you look at the head of the new csv - you can see that most of these employees have senior titles.
