@@ -12,5 +12,12 @@ The purpose of our project is to determine the number of retiring employees by t
 - The unique titles table that we created is showing the most recent title for employees of retirment age.
 
 - Our retiring_titles shows us the a majority of the employees of retirment age (57,668/90,398 = 64%) have senior titles.
+<img width="523" alt="Screen Shot 2020-09-05 at 12 06 58 PM" src="https://user-images.githubusercontent.com/67278193/92309182-4bc89180-ef71-11ea-83f5-f35a59b280d8.png">
 
 - The final part of our project shows mentorship eligibility, if you look at the head of the new csv - you can see that most of these employees have senior titles.
+
+<img width="636" alt="Screen Shot 2020-09-05 at 12 12 13 PM" src="https://user-images.githubusercontent.com/67278193/92309185-4e2aeb80-ef71-11ea-992e-759ce1b3971c.png">
+
+# Conclusion
+
+Seeing the 63 % of the workforce is either retirment or mentorship eligible there will most likely be many positions to fill over the next 5-10 years. There may not exactly be enough people in the workforce to take care of the tasks or even come close to the amount of experience to fill these roles so quickly but what companies can do is try to best learn about what these employees did to be so successful/ having such long lasting careers to continue the tradition for future employees. Most likely the future generation is more computer savy/ efficent due to technologies and can catch on quickly helping companies continue to trend in the right direction by keeping revenues up.
